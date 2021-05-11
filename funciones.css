@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+h1{
+    margin-top: 30px;
+    margin-left: 100px;
+    text-shadow: 5px 4px 5px #4B236F;
+}
+
+  #rectangulo{
+      width: 900px;
+      height: 150px;
+      background-color: violet;
+      border-radius: 10px 50px 10px 50px;
+      margin-left: 30px;
+      margin-bottom: 20px;
+  }
+
+  .funcion{
+      font-weight: 700;
+      font-style: italic;
+  }
+
+  #button, #button1, #button2, #button3, #button4,#button5,button6, button7,button8,.fecha,.nofecha, #button10,#button11,#button12,#button13,#button14,#button15{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color:#4B236F;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 6px yellow;
+    margin-top: 30px;
+    margin-left: 30px;
+  }
+  
+  #button:hover, #button1:hover, #button2:hover, #button3:hover,#button4:hover ,#button5:hover ,button6:hover ,button7:hover ,button8:hover ,.fecha,.nofecha:hover #button10:hover ,#button11:hover,#button12:hover,#button13:hover,#button14:hover,#button15:hover  {background-color: #953095}
+  
+  #button:active, #button1:active, #button2:active, #button3:active, #button4:active,#button5:active,button6:active,button7:active,button8:active,.fecha,.nofecha:active,#button10:active,#button11:active,#button12:active,#button13:active,#button14:active,#button15:active {
+    background-color: #FF54FF;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+#hide,#show,#toogle, #slideUp, #slideToogle,#fadeOut, #fadeIn, h3, h2, img, #Text_HTML, #test{
+    display: inline-block;
+    margin-left:30px;
+    font-size: 20px;
+}
+
+#show, #slideDown, #zona  {
+    display: none;
+    float: right;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+
+#div3{
+  margin-right: 150px;
+  margin-top: 30px;
+  float: right;
+}
+
+#div2{
+  display: none;
+  float: right;
+  display: none;
+  float: right;
+  margin-right: 150px;
+  margin-top: 30px;
+}
+
+.white {
+  font-weight: bold;
+  font-size: xx-large;
+  color :white;
+}
+
+.c{
+color:red
+}
+.l{
+color:orangered
+}
+.a{
+color: yellow;
+}
+.s{
+color: yellowgreen;
+}
+
+#button11{
+  float: right;
+  margin-right: 350px;
+}
+
+#click{
+  font-size: 30px;
+  margin-left: 200px;
+
+}
